@@ -8,3 +8,5 @@ Please refer to the presentation file(s) "TDDWithMocha" in PDF and in PPTX forma
 This is the BDD + TDD part, in continuation to BDD With SlimJs - https://github.com/ravichandranjv/BDDWithSlimJS
 
 I will update the link here for the UADD part of BDD + TDD + UADD as soon as the artefacts are ready to be pushed.
+
+The link for UADD with SlimJs - https://github.com/ravichandranjv/UADD
